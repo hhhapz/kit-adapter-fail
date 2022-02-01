@@ -4,7 +4,7 @@ const config = {
   kit: {
     adapter: adapter(),
     paths: {
-      // base: "/example",
+      base: "/example",
     },
     target: "#svelte",
     methodOverride: {
